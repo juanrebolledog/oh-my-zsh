@@ -5,4 +5,4 @@ alias mysqlstart='sudo /opt/local/share/mysql55/support-files/mysql.server start
 alias mysqlstop='sudo /opt/local/share/mysql55/support-files/mysql.server stop'
 alias mysqlrestart='sudo /opt/local/share/mysql55/support-files/mysql.server restart'
 
-alias mysqlstatus='mysqladmin5 -u root -p ping'
+alias mysqlstatus='mysqladmin -u root -p ping'
